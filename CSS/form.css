@@ -1,0 +1,13 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.form-margin{
+    margin-top: 0px;
+    padding:20px;
+    margin-left: 35%;
+    background-color: beige;
+    border-radius: 10px;
+    margin-bottom: 10%;
+}
